@@ -8,3 +8,7 @@
 ### My technology stack and tools I'm using
 
 ![html logo](/assets/html.svg) ![css logo](/assets/css.svg) ![js logo](/assets/JS.svg) ![react logo](/assets/react.svg) ![git logo](/assets/git.svg)
+
+### Contacts
+
+[![telegram logo](/assets/telegram.Svg)](t.me/eugenebus144) [![gmail logo](/assets/gmail.png)](gmail.com/eugenebus144)
