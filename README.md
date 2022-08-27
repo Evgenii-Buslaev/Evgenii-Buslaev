@@ -11,4 +11,4 @@
 
 ### Contacts
 
-[![telegram logo](/assets/telegram.svg)](https://t.me/eugenebus) [![gmail logo](/assets/gmail.png)](eugenebus144@gmail.com)
+[![telegram logo](/assets/telegram.svg)](https://t.me/eugenebus) [![gmail logo](/assets/free-icon-gmail.png)](eugenebus144@gmail.com)
