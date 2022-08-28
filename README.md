@@ -11,4 +11,4 @@
 
 ### Contacts
 
-[![telegram logo](/assets/telegram.png)](https://t.me/eugenebus)
+[![telegram logo](/assets/telegram.png)](https://t.me/eugenebus) [![vk logo](/assets/vk.png)](https://vk.com/eugenebus)
