@@ -6,7 +6,7 @@
 
 ### My technology stack and tools I'm using
 
-![html logo](/assets/html.svg) ![css logo](/assets/css.svg) ![js logo](/assets/JS.svg) ![react logo](/assets/react.svg) ![redux logo](/assets/redux.svg) ![git logo](/assets/git.svg)
+![html logo](/assets/html.svg) ![css logo](/assets/css.svg) ![scss logo](/assets/sass.svg) ![js logo](/assets/JS.svg) ![react logo](/assets/react.svg) ![redux logo](/assets/redux.svg) ![nodejs logo](/assets/node.svg) ![mongodb logo](/assets/mongodb.svg) ![firebase logo](/assets/firebase.svg) ![postman logo](/assets/postman.svg) ![git logo](/assets/git.svg)
 
 ### Contacts
 
