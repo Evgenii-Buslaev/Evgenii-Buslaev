@@ -1,6 +1,6 @@
 ### Hello World! 👋 My name is Evgenii Buslaev.
 
-- 😊 I'm responsible, easily-taught JavaScript/React Frontend Developer open to be hired now.
+- 😊 I'm responsible, easily-taught JavaScript/React Frontend Developer.
 - 🌱 I’m currently learning TypeScript, Node.js.
 - 💬 I’m looking for a job as a front-end developer.
 
