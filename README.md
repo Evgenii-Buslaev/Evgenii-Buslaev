@@ -1,7 +1,4 @@
-### Hello World! 👋 My name is Evgenii Buslaev.
-
-- 😊 I'm responsible, easily-taught Frontend Developer.
-- 🌱 I’m currently learning TypeScript.
+### Evgenii Buslaev · Frontend Developer
 
 ### My technology stack and tools I'm using
 
